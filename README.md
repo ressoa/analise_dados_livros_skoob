@@ -1,1 +1,1 @@
-# analise_dados_livros_skoob
+# estudando analise de dados com uma library do kaggle
